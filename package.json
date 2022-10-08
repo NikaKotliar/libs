@@ -1,0 +1,23 @@
+{
+  "name": "libs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikaKotliar/libs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikaKotliar/libs/issues"
+  },
+  "homepage": "https://github.com/NikaKotliar/libs#readme",
+  "dependencies": {
+    "@nikakotliar/platforms": "^1.0.0"
+  }
+}
